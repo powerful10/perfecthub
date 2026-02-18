@@ -1,0 +1,28 @@
+{
+  "slug": "perfect-landing-page",
+  "title": "Perfect Landing Page",
+  "description": "Simple landing page structure with hero, features, and CTA.",
+  "seoTitle": "Perfect Landing Page Code",
+  "seoDescription": "Use this landing page code starter for fast product launches.",
+  "keywords": [
+    "landing page code",
+    "hero section",
+    "marketing page"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "codeBlocks": [
+    {
+      "title": "HTML",
+      "language": "html",
+      "code": "<main>\n  <section class=\"hero\">\n    <h1>Build Faster</h1>\n    <p>Launch your product with confidence.</p>\n    <button>Get Started</button>\n  </section>\n</main>"
+    },
+    {
+      "title": "CSS",
+      "language": "css",
+      "code": ".hero {\n  text-align: center;\n  padding: 80px 20px;\n}\n.hero h1 {\n  font-size: 3rem;\n  margin-bottom: 12px;\n}"
+    }
+  ],
+  "category": "code",
+  "body": "Simple landing page structure with hero, features, and CTA.\n\nHTML\n\nhtml\n\n<main>\n  <section class=\"hero\">\n    <h1>Build Faster</h1>\n    <p>Launch your product with confidence.</p>\n    <button>Get Started</button>\n  </section>\n</main>\n\nCSS\n\ncss\n\n.hero {\n  text-align: center;\n  padding: 80px 20px;\n}\n.hero h1 {\n  font-size: 3rem;\n  margin-bottom: 12px;\n}"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "instagram-style-profile-feed-ui",
+  "title": "Instagram-style Profile + Feed UI (front-end)",
+  "description": "Build an original profile and feed-focused social front-end with reusable components.",
+  "seoTitle": "Instagram-style Profile + Feed UI (front-end) Build Prompt Pack",
+  "seoDescription": "Build an original profile and feed-focused social front-end with reusable components. Includes ChatGPT/Claude, Gemini, and Codex prompts for an original implementation.",
+  "keywords": [
+    "feed ui",
+    "profile ui",
+    "social frontend",
+    "build prompt"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "category": "build",
+  "intro": "Create a modern social front-end shell with profile pages and feed cards.",
+  "inspiredBy": "social profile and feed layouts",
+  "prompts": {
+    "chatgpt_claude_prompt": "You are a senior startup product strategist and UX engineer.\nDesign and scope a complete MVP for: Instagram-style Profile + Feed UI (front-end).\nProject summary: Build an original profile and feed-focused social front-end with reusable components.\nReturn: product concept, user personas, IA, feature matrix, UX flows, and launch metrics.\nCreate an original product inspired by social profile and feed layouts. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by social profile and feed layouts, but original implementation and assets.",
+    "gemini_prompt": "Act as a systems designer and technical architect.\nGenerate an implementation blueprint for an original project inspired by social profile and feed layouts.\nInclude architecture diagram text, data model, API contracts, and testing strategy.\nProvide mobile and desktop interaction notes and accessibility checks.\nCreate an original product inspired by social profile and feed layouts. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by social profile and feed layouts, but original implementation and assets.",
+    "codex_prompt": "You are Codex acting as a senior full-stack engineer.\nBuild a production-ready project for: Instagram-style Profile + Feed UI (front-end).\nUse Next.js 14+, TypeScript, TailwindCSS, clean component architecture, and reusable modules.\nImplement core features, seed data, responsive UI, metadata, and performance best practices.\nOutput complete code files only.\nCreate an original product inspired by social profile and feed layouts. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by social profile and feed layouts, but original implementation and assets."
+  },
+  "sections": [
+    {
+      "title": "How to use this build pack",
+      "content": "Start with the strategy prompt, refine architecture, then execute with the Codex implementation prompt in iterative milestones."
+    }
+  ],
+  "body": "Create a modern social front-end shell with profile pages and feed cards.\n\nBuild an original profile and feed-focused social front-end with reusable components.\n\nInspired by social profile and feed layouts, but original implementation and assets."
+}

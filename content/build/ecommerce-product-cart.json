@@ -1,0 +1,30 @@
+{
+  "slug": "ecommerce-product-cart",
+  "title": "E-commerce product page + cart",
+  "description": "Create an original commerce product detail and cart experience optimized for conversion.",
+  "seoTitle": "E-commerce product page + cart Build Prompt Pack",
+  "seoDescription": "Create an original commerce product detail and cart experience optimized for conversion. Includes ChatGPT/Claude, Gemini, and Codex prompts for an original implementation.",
+  "keywords": [
+    "ecommerce ui",
+    "product page",
+    "shopping cart",
+    "build prompt"
+  ],
+  "featured": false,
+  "updatedAt": "2026-02-18",
+  "category": "build",
+  "intro": "Build a conversion-focused commerce flow from product discovery to cart.",
+  "inspiredBy": "modern direct-to-consumer product page patterns",
+  "prompts": {
+    "chatgpt_claude_prompt": "You are a senior startup product strategist and UX engineer.\nDesign and scope a complete MVP for: E-commerce product page + cart.\nProject summary: Create an original commerce product detail and cart experience optimized for conversion.\nReturn: product concept, user personas, IA, feature matrix, UX flows, and launch metrics.\nCreate an original product inspired by modern direct-to-consumer product page patterns. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by modern direct-to-consumer product page patterns, but original implementation and assets.",
+    "gemini_prompt": "Act as a systems designer and technical architect.\nGenerate an implementation blueprint for an original project inspired by modern direct-to-consumer product page patterns.\nInclude architecture diagram text, data model, API contracts, and testing strategy.\nProvide mobile and desktop interaction notes and accessibility checks.\nCreate an original product inspired by modern direct-to-consumer product page patterns. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by modern direct-to-consumer product page patterns, but original implementation and assets.",
+    "codex_prompt": "You are Codex acting as a senior full-stack engineer.\nBuild a production-ready project for: E-commerce product page + cart.\nUse Next.js 14+, TypeScript, TailwindCSS, clean component architecture, and reusable modules.\nImplement core features, seed data, responsive UI, metadata, and performance best practices.\nOutput complete code files only.\nCreate an original product inspired by modern direct-to-consumer product page patterns. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by modern direct-to-consumer product page patterns, but original implementation and assets."
+  },
+  "sections": [
+    {
+      "title": "How to use this build pack",
+      "content": "Start with the strategy prompt, refine architecture, then execute with the Codex implementation prompt in iterative milestones."
+    }
+  ],
+  "body": "Build a conversion-focused commerce flow from product discovery to cart.\n\nCreate an original commerce product detail and cart experience optimized for conversion.\n\nInspired by modern direct-to-consumer product page patterns, but original implementation and assets."
+}

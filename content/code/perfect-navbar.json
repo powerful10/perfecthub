@@ -1,0 +1,28 @@
+{
+  "slug": "perfect-navbar",
+  "title": "Perfect Navbar",
+  "description": "Responsive navbar code with logo, links, and CTA.",
+  "seoTitle": "Perfect Navbar Code",
+  "seoDescription": "Copy responsive navbar code for modern websites.",
+  "keywords": [
+    "navbar code",
+    "responsive navigation",
+    "header component"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "codeBlocks": [
+    {
+      "title": "HTML",
+      "language": "html",
+      "code": "<header class=\"nav\">\n  <a class=\"logo\" href=\"/\">PerfectHub</a>\n  <nav>\n    <a href=\"/tools\">Tools</a>\n    <a href=\"/prompts\">Prompts</a>\n    <a href=\"/guides\">Guides</a>\n  </nav>\n</header>"
+    },
+    {
+      "title": "CSS",
+      "language": "css",
+      "code": ".nav {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  padding: 14px 20px;\n  border-bottom: 1px solid #e2e8f0;\n  background: rgba(255,255,255,0.9);\n}\n.nav nav {\n  display: flex;\n  gap: 16px;\n}"
+    }
+  ],
+  "category": "code",
+  "body": "Responsive navbar code with logo, links, and CTA.\n\nHTML\n\nhtml\n\n<header class=\"nav\">\n  <a class=\"logo\" href=\"/\">PerfectHub</a>\n  <nav>\n    <a href=\"/tools\">Tools</a>\n    <a href=\"/prompts\">Prompts</a>\n    <a href=\"/guides\">Guides</a>\n  </nav>\n</header>\n\nCSS\n\ncss\n\n.nav {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  padding: 14px 20px;\n  border-bottom: 1px solid #e2e8f0;\n  background: rgba(255,255,255,0.9);\n}\n.nav nav {\n  display: flex;\n  gap: 16px;\n}"
+}

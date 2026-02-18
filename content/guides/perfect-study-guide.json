@@ -1,0 +1,34 @@
+{
+  "slug": "perfect-study-guide",
+  "title": "Perfect Study Guide",
+  "description": "A complete guide to planning and executing effective study sessions.",
+  "seoTitle": "Perfect Study Guide",
+  "seoDescription": "Learn a proven framework to study efficiently and retain more.",
+  "keywords": [
+    "study guide",
+    "learning strategy",
+    "exam guide"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "sections": [
+    {
+      "title": "Set Clear Goals",
+      "content": "Define what you need to learn, by when, and what success looks like."
+    },
+    {
+      "title": "Use Active Recall",
+      "content": "Test yourself frequently instead of only re-reading notes."
+    },
+    {
+      "title": "Spaced Repetition",
+      "content": "Review material at increasing intervals to improve long-term memory."
+    },
+    {
+      "title": "Track Progress",
+      "content": "Use weekly review sessions to adjust strategy and close knowledge gaps."
+    }
+  ],
+  "category": "guides",
+  "body": "A complete guide to planning and executing effective study sessions.\n\nSet Clear Goals\n\nDefine what you need to learn, by when, and what success looks like.\n\nUse Active Recall\n\nTest yourself frequently instead of only re-reading notes.\n\nSpaced Repetition\n\nReview material at increasing intervals to improve long-term memory.\n\nTrack Progress\n\nUse weekly review sessions to adjust strategy and close knowledge gaps."
+}

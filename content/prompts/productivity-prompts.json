@@ -1,0 +1,43 @@
+{
+  "slug": "productivity-prompts",
+  "title": "Perfect Productivity Prompts",
+  "description": "Prompt set to improve focus, planning, and output every day.",
+  "seoTitle": "Perfect Productivity Prompts",
+  "seoDescription": "Use productivity prompts to plan work, prioritize tasks, and stay focused.",
+  "keywords": [
+    "productivity prompts",
+    "focus prompts",
+    "planning prompts"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "prompts": [
+    {
+      "title": "Daily Priority Planner",
+      "description": "Plan highest-impact tasks quickly.",
+      "text": "Create a priority plan for today from this task list: [tasks], using impact and urgency."
+    },
+    {
+      "title": "Deep Work Plan",
+      "description": "Build focused work blocks.",
+      "text": "Create a deep work schedule for [hours] today with breaks and distraction controls."
+    },
+    {
+      "title": "Decision Matrix",
+      "description": "Compare options objectively.",
+      "text": "Build a weighted decision matrix for choosing between [option A] and [option B]."
+    },
+    {
+      "title": "Weekly Reset",
+      "description": "Review performance and reset goals.",
+      "text": "Generate a weekly review template with wins, blockers, lessons, and next-week priorities."
+    },
+    {
+      "title": "Email Compression",
+      "description": "Reduce inbox overload.",
+      "text": "Summarize these emails and produce a reply plan with priorities: [emails]."
+    }
+  ],
+  "category": "prompts",
+  "body": "Prompt set to improve focus, planning, and output every day.\n\nDaily Priority Planner\n\nPlan highest-impact tasks quickly.\n\nCreate a priority plan for today from this task list: [tasks], using impact and urgency.\n\nDeep Work Plan\n\nBuild focused work blocks.\n\nCreate a deep work schedule for [hours] today with breaks and distraction controls.\n\nDecision Matrix\n\nCompare options objectively.\n\nBuild a weighted decision matrix for choosing between [option A] and [option B].\n\nWeekly Reset\n\nReview performance and reset goals.\n\nGenerate a weekly review template with wins, blockers, lessons, and next-week priorities.\n\nEmail Compression\n\nReduce inbox overload.\n\nSummarize these emails and produce a reply plan with priorities: [emails]."
+}

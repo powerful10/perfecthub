@@ -1,0 +1,28 @@
+{
+  "slug": "perfect-dashboard-ui",
+  "title": "Perfect Dashboard UI",
+  "description": "Dashboard layout starter with sidebar and stats cards.",
+  "seoTitle": "Perfect Dashboard UI Code",
+  "seoDescription": "Copy dashboard UI code for admin and analytics interfaces.",
+  "keywords": [
+    "dashboard ui",
+    "admin panel code",
+    "analytics layout"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "codeBlocks": [
+    {
+      "title": "HTML",
+      "language": "html",
+      "code": "<div class=\"dashboard\">\n  <aside class=\"sidebar\">Menu</aside>\n  <section class=\"content\">\n    <article class=\"card\">Revenue</article>\n    <article class=\"card\">Users</article>\n  </section>\n</div>"
+    },
+    {
+      "title": "CSS",
+      "language": "css",
+      "code": ".dashboard {\n  display: grid;\n  grid-template-columns: 240px 1fr;\n  min-height: 100vh;\n}\n.content {\n  display: grid;\n  grid-template-columns: repeat(2, minmax(0, 1fr));\n  gap: 16px;\n  padding: 20px;\n}"
+    }
+  ],
+  "category": "code",
+  "body": "Dashboard layout starter with sidebar and stats cards.\n\nHTML\n\nhtml\n\n<div class=\"dashboard\">\n  <aside class=\"sidebar\">Menu</aside>\n  <section class=\"content\">\n    <article class=\"card\">Revenue</article>\n    <article class=\"card\">Users</article>\n  </section>\n</div>\n\nCSS\n\ncss\n\n.dashboard {\n  display: grid;\n  grid-template-columns: 240px 1fr;\n  min-height: 100vh;\n}\n.content {\n  display: grid;\n  grid-template-columns: repeat(2, minmax(0, 1fr));\n  gap: 16px;\n  padding: 20px;\n}"
+}

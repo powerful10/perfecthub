@@ -1,0 +1,24 @@
+{
+  "slug": "perfect-cv-template",
+  "title": "Perfect CV Template",
+  "description": "International CV template with clear sections for education and experience.",
+  "seoTitle": "Perfect CV Template",
+  "seoDescription": "Copy a professional CV template suitable for global job applications.",
+  "keywords": [
+    "cv template",
+    "professional cv",
+    "job application"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "intro": "A clear CV framework for students and professionals worldwide.",
+  "templateText": "[Full Name]\n[Phone] | [Email] | [LinkedIn]\n\nProfessional Summary\n[2-3 lines about your profile]\n\nExperience\n[Role] - [Company] - [Dates]\n- Achievement 1\n- Achievement 2\n\nEducation\n[Degree] - [University] - [Year]\n\nSkills\n[Skill 1], [Skill 2], [Skill 3]",
+  "sections": [
+    {
+      "title": "Tip",
+      "content": "Keep CV to one or two pages and use measurable achievements where possible."
+    }
+  ],
+  "category": "templates",
+  "body": "A clear CV framework for students and professionals worldwide.\n\nInternational CV template with clear sections for education and experience.\n\nTip\n\nKeep CV to one or two pages and use measurable achievements where possible.\n\n[Full Name]\n[Phone] | [Email] | [LinkedIn]\n\nProfessional Summary\n[2-3 lines about your profile]\n\nExperience\n[Role] - [Company] - [Dates]\n- Achievement 1\n- Achievement 2\n\nEducation\n[Degree] - [University] - [Year]\n\nSkills\n[Skill 1], [Skill 2], [Skill 3]"
+}

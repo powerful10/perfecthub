@@ -1,0 +1,28 @@
+{
+  "slug": "perfect-login-form",
+  "title": "Perfect Login Form",
+  "description": "Modern login form UI with clean HTML and CSS.",
+  "seoTitle": "Perfect Login Form Code",
+  "seoDescription": "Copy a clean login form HTML and CSS snippet with modern styling.",
+  "keywords": [
+    "login form code",
+    "html css login",
+    "frontend ui"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "codeBlocks": [
+    {
+      "title": "HTML",
+      "language": "html",
+      "code": "<form class=\"login-card\">\n  <h1>Welcome Back</h1>\n  <input type=\"email\" placeholder=\"Email\" />\n  <input type=\"password\" placeholder=\"Password\" />\n  <button type=\"submit\">Sign In</button>\n</form>"
+    },
+    {
+      "title": "CSS",
+      "language": "css",
+      "code": ".login-card {\n  width: min(420px, 92vw);\n  border-radius: 20px;\n  padding: 24px;\n  border: 1px solid #e2e8f0;\n  box-shadow: 0 20px 40px rgba(15,23,42,0.08);\n}\n.login-card button {\n  background: #4f46e5;\n  color: white;\n  border: 0;\n  border-radius: 12px;\n  padding: 12px;\n}"
+    }
+  ],
+  "category": "code",
+  "body": "Modern login form UI with clean HTML and CSS.\n\nHTML\n\nhtml\n\n<form class=\"login-card\">\n  <h1>Welcome Back</h1>\n  <input type=\"email\" placeholder=\"Email\" />\n  <input type=\"password\" placeholder=\"Password\" />\n  <button type=\"submit\">Sign In</button>\n</form>\n\nCSS\n\ncss\n\n.login-card {\n  width: min(420px, 92vw);\n  border-radius: 20px;\n  padding: 24px;\n  border: 1px solid #e2e8f0;\n  box-shadow: 0 20px 40px rgba(15,23,42,0.08);\n}\n.login-card button {\n  background: #4f46e5;\n  color: white;\n  border: 0;\n  border-radius: 12px;\n  padding: 12px;\n}"
+}

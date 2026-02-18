@@ -1,0 +1,30 @@
+{
+  "slug": "perfect-programming-guide",
+  "title": "Perfect Programming Guide",
+  "description": "Roadmap for learning programming fundamentals and building real projects.",
+  "seoTitle": "Perfect Programming Guide",
+  "seoDescription": "Learn programming effectively with a project-first learning strategy.",
+  "keywords": [
+    "programming guide",
+    "learn coding",
+    "developer roadmap"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "sections": [
+    {
+      "title": "Master Fundamentals",
+      "content": "Data structures, algorithms, debugging, and software design are core."
+    },
+    {
+      "title": "Build Real Projects",
+      "content": "Projects teach architecture, tradeoffs, and maintainability."
+    },
+    {
+      "title": "Read and Review Code",
+      "content": "Learn from production codebases and request feedback on your own work."
+    }
+  ],
+  "category": "guides",
+  "body": "Roadmap for learning programming fundamentals and building real projects.\n\nMaster Fundamentals\n\nData structures, algorithms, debugging, and software design are core.\n\nBuild Real Projects\n\nProjects teach architecture, tradeoffs, and maintainability.\n\nRead and Review Code\n\nLearn from production codebases and request feedback on your own work."
+}

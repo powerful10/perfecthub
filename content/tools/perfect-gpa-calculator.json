@@ -1,0 +1,25 @@
+{
+  "slug": "perfect-gpa-calculator",
+  "title": "Perfect GPA Calculator",
+  "description": "Calculate your GPA accurately by adding subjects, grades, and credits.",
+  "seoTitle": "Perfect GPA Calculator (Accurate and Free)",
+  "seoDescription": "Use the perfect GPA calculator to instantly calculate your GPA accurately.",
+  "keywords": [
+    "gpa calculator",
+    "grade point average",
+    "student tool",
+    "perfecthub"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "intro": "A fast GPA calculator for students worldwide with weighted credit support.",
+  "toolType": "gpa",
+  "sections": [
+    {
+      "title": "How GPA Is Calculated",
+      "content": "GPA is calculated by multiplying each subject's grade points by its credits, summing all weighted values, then dividing by total credits."
+    }
+  ],
+  "category": "tools",
+  "body": "A fast GPA calculator for students worldwide with weighted credit support.\n\nCalculate your GPA accurately by adding subjects, grades, and credits.\n\nHow GPA Is Calculated\n\nGPA is calculated by multiplying each subject's grade points by its credits, summing all weighted values, then dividing by total credits."
+}

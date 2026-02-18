@@ -1,0 +1,28 @@
+{
+  "slug": "perfect-contact-form",
+  "title": "Perfect Contact Form",
+  "description": "Accessible contact form code with clean form controls.",
+  "seoTitle": "Perfect Contact Form Code",
+  "seoDescription": "Copy a responsive contact form code example.",
+  "keywords": [
+    "contact form",
+    "form ui",
+    "frontend form"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "codeBlocks": [
+    {
+      "title": "HTML",
+      "language": "html",
+      "code": "<form class=\"contact-form\">\n  <input type=\"text\" placeholder=\"Name\" />\n  <input type=\"email\" placeholder=\"Email\" />\n  <textarea placeholder=\"Message\"></textarea>\n  <button type=\"submit\">Send</button>\n</form>"
+    },
+    {
+      "title": "CSS",
+      "language": "css",
+      "code": ".contact-form {\n  display: grid;\n  gap: 12px;\n}\n.contact-form input,\n.contact-form textarea {\n  border: 1px solid #e2e8f0;\n  border-radius: 12px;\n  padding: 12px;\n}"
+    }
+  ],
+  "category": "code",
+  "body": "Accessible contact form code with clean form controls.\n\nHTML\n\nhtml\n\n<form class=\"contact-form\">\n  <input type=\"text\" placeholder=\"Name\" />\n  <input type=\"email\" placeholder=\"Email\" />\n  <textarea placeholder=\"Message\"></textarea>\n  <button type=\"submit\">Send</button>\n</form>\n\nCSS\n\ncss\n\n.contact-form {\n  display: grid;\n  gap: 12px;\n}\n.contact-form input,\n.contact-form textarea {\n  border: 1px solid #e2e8f0;\n  border-radius: 12px;\n  padding: 12px;\n}"
+}

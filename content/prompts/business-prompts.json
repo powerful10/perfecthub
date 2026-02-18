@@ -1,0 +1,44 @@
+{
+  "slug": "business-prompts",
+  "title": "Perfect Business Prompts",
+  "description": "Prompt collection for founders, marketers, and business teams.",
+  "seoTitle": "Perfect Business Prompts",
+  "seoDescription": "Use business prompts for strategy, growth, sales, and operations.",
+  "keywords": [
+    "business prompts",
+    "startup prompts",
+    "marketing prompts"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "intro": "Practical prompts for business decisions, planning, and growth.",
+  "prompts": [
+    {
+      "title": "Go-To-Market Plan",
+      "description": "Build a launch strategy for new products.",
+      "text": "Create a go-to-market plan for [product] targeting [audience], with channels, budget split, and KPIs."
+    },
+    {
+      "title": "Offer Optimization",
+      "description": "Improve product offers for conversions.",
+      "text": "Analyze this offer and improve value proposition, positioning, and pricing: [offer details]."
+    },
+    {
+      "title": "Competitive Analysis",
+      "description": "Map competitors and differentiation.",
+      "text": "Perform competitor analysis for [industry], with strengths, weaknesses, and positioning gaps."
+    },
+    {
+      "title": "Sales Email Generator",
+      "description": "Write persuasive outbound messages.",
+      "text": "Write a short sales email for [offer] to [target customer] focusing on pain points and ROI."
+    },
+    {
+      "title": "Weekly KPI Review",
+      "description": "Create executive summary of business metrics.",
+      "text": "Create a weekly KPI report format for [business], including top metrics, insights, and action items."
+    }
+  ],
+  "category": "prompts",
+  "body": "Practical prompts for business decisions, planning, and growth.\n\nPrompt collection for founders, marketers, and business teams.\n\nGo-To-Market Plan\n\nBuild a launch strategy for new products.\n\nCreate a go-to-market plan for [product] targeting [audience], with channels, budget split, and KPIs.\n\nOffer Optimization\n\nImprove product offers for conversions.\n\nAnalyze this offer and improve value proposition, positioning, and pricing: [offer details].\n\nCompetitive Analysis\n\nMap competitors and differentiation.\n\nPerform competitor analysis for [industry], with strengths, weaknesses, and positioning gaps.\n\nSales Email Generator\n\nWrite persuasive outbound messages.\n\nWrite a short sales email for [offer] to [target customer] focusing on pain points and ROI.\n\nWeekly KPI Review\n\nCreate executive summary of business metrics.\n\nCreate a weekly KPI report format for [business], including top metrics, insights, and action items."
+}

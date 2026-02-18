@@ -1,0 +1,43 @@
+{
+  "slug": "coding-prompts",
+  "title": "Perfect Coding Prompts",
+  "description": "Prompt pack for debugging, architecture, and cleaner code output.",
+  "seoTitle": "Perfect Coding Prompts",
+  "seoDescription": "Use coding prompts to debug faster and generate production-ready code.",
+  "keywords": [
+    "coding prompts",
+    "debug prompts",
+    "software prompts"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "prompts": [
+    {
+      "title": "Bug Diagnosis",
+      "description": "Find root cause of runtime errors.",
+      "text": "Diagnose this error and provide root cause, fix steps, and corrected code: [error + code]."
+    },
+    {
+      "title": "Refactor Prompt",
+      "description": "Improve readability and maintainability.",
+      "text": "Refactor this function for clarity and performance, and explain tradeoffs: [code]."
+    },
+    {
+      "title": "API Design",
+      "description": "Design scalable API structures.",
+      "text": "Design REST API endpoints for [feature], including request/response schema and validation rules."
+    },
+    {
+      "title": "Test Case Generator",
+      "description": "Create unit and edge-case tests.",
+      "text": "Generate comprehensive test cases (including edge cases) for this function: [function]."
+    },
+    {
+      "title": "PR Review Assistant",
+      "description": "Review pull requests with risk insights.",
+      "text": "Review this pull request diff and list bugs, regressions, performance risks, and missing tests."
+    }
+  ],
+  "category": "prompts",
+  "body": "Prompt pack for debugging, architecture, and cleaner code output.\n\nBug Diagnosis\n\nFind root cause of runtime errors.\n\nDiagnose this error and provide root cause, fix steps, and corrected code: [error + code].\n\nRefactor Prompt\n\nImprove readability and maintainability.\n\nRefactor this function for clarity and performance, and explain tradeoffs: [code].\n\nAPI Design\n\nDesign scalable API structures.\n\nDesign REST API endpoints for [feature], including request/response schema and validation rules.\n\nTest Case Generator\n\nCreate unit and edge-case tests.\n\nGenerate comprehensive test cases (including edge cases) for this function: [function].\n\nPR Review Assistant\n\nReview pull requests with risk insights.\n\nReview this pull request diff and list bugs, regressions, performance risks, and missing tests."
+}

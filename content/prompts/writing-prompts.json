@@ -1,0 +1,43 @@
+{
+  "slug": "writing-prompts",
+  "title": "Perfect Writing Prompts",
+  "description": "Prompt pack for clear, persuasive, and creative writing output.",
+  "seoTitle": "Perfect Writing Prompts",
+  "seoDescription": "Use writing prompts to improve clarity, flow, and content quality.",
+  "keywords": [
+    "writing prompts",
+    "blog prompts",
+    "copywriting prompts"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "prompts": [
+    {
+      "title": "Blog Outline Creator",
+      "description": "Generate SEO-friendly article structures.",
+      "text": "Create an SEO outline for [keyword] with H1, H2, FAQs, and CTA."
+    },
+    {
+      "title": "Tone Rewriter",
+      "description": "Adapt tone based on audience.",
+      "text": "Rewrite this text for [audience] in a [tone] tone while keeping meaning: [text]."
+    },
+    {
+      "title": "Headline Generator",
+      "description": "Produce compelling title variations.",
+      "text": "Generate 20 headline options for this topic: [topic], optimized for CTR."
+    },
+    {
+      "title": "Story Expansion",
+      "description": "Expand ideas into full narratives.",
+      "text": "Turn this short idea into a 500-word engaging story with a strong ending: [idea]."
+    },
+    {
+      "title": "Editing Checklist",
+      "description": "Review writing quality step by step.",
+      "text": "Create a detailed editing checklist for clarity, grammar, structure, and persuasion."
+    }
+  ],
+  "category": "prompts",
+  "body": "Prompt pack for clear, persuasive, and creative writing output.\n\nBlog Outline Creator\n\nGenerate SEO-friendly article structures.\n\nCreate an SEO outline for [keyword] with H1, H2, FAQs, and CTA.\n\nTone Rewriter\n\nAdapt tone based on audience.\n\nRewrite this text for [audience] in a [tone] tone while keeping meaning: [text].\n\nHeadline Generator\n\nProduce compelling title variations.\n\nGenerate 20 headline options for this topic: [topic], optimized for CTR.\n\nStory Expansion\n\nExpand ideas into full narratives.\n\nTurn this short idea into a 500-word engaging story with a strong ending: [idea].\n\nEditing Checklist\n\nReview writing quality step by step.\n\nCreate a detailed editing checklist for clarity, grammar, structure, and persuasion."
+}

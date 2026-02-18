@@ -1,0 +1,30 @@
+{
+  "slug": "habit-tracker-streaks",
+  "title": "Habit Tracker with streaks",
+  "description": "Build an original habit tracker with streak logic, reminders, and progress analytics.",
+  "seoTitle": "Habit Tracker with streaks Build Prompt Pack",
+  "seoDescription": "Build an original habit tracker with streak logic, reminders, and progress analytics. Includes ChatGPT/Claude, Gemini, and Codex prompts for an original implementation.",
+  "keywords": [
+    "habit tracker",
+    "streak app",
+    "productivity app",
+    "build prompt"
+  ],
+  "featured": false,
+  "updatedAt": "2026-02-18",
+  "category": "build",
+  "intro": "Launch a daily habit product that emphasizes consistency and progress clarity.",
+  "inspiredBy": "habit and streak motivation loops",
+  "prompts": {
+    "chatgpt_claude_prompt": "You are a senior startup product strategist and UX engineer.\nDesign and scope a complete MVP for: Habit Tracker with streaks.\nProject summary: Build an original habit tracker with streak logic, reminders, and progress analytics.\nReturn: product concept, user personas, IA, feature matrix, UX flows, and launch metrics.\nCreate an original product inspired by habit and streak motivation loops. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by habit and streak motivation loops, but original implementation and assets.",
+    "gemini_prompt": "Act as a systems designer and technical architect.\nGenerate an implementation blueprint for an original project inspired by habit and streak motivation loops.\nInclude architecture diagram text, data model, API contracts, and testing strategy.\nProvide mobile and desktop interaction notes and accessibility checks.\nCreate an original product inspired by habit and streak motivation loops. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by habit and streak motivation loops, but original implementation and assets.",
+    "codex_prompt": "You are Codex acting as a senior full-stack engineer.\nBuild a production-ready project for: Habit Tracker with streaks.\nUse Next.js 14+, TypeScript, TailwindCSS, clean component architecture, and reusable modules.\nImplement core features, seed data, responsive UI, metadata, and performance best practices.\nOutput complete code files only.\nCreate an original product inspired by habit and streak motivation loops. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by habit and streak motivation loops, but original implementation and assets."
+  },
+  "sections": [
+    {
+      "title": "How to use this build pack",
+      "content": "Start with the strategy prompt, refine architecture, then execute with the Codex implementation prompt in iterative milestones."
+    }
+  ],
+  "body": "Launch a daily habit product that emphasizes consistency and progress clarity.\n\nBuild an original habit tracker with streak logic, reminders, and progress analytics.\n\nInspired by habit and streak motivation loops, but original implementation and assets."
+}

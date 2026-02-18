@@ -1,0 +1,30 @@
+{
+  "slug": "perfect-interview-guide",
+  "title": "Perfect Interview Guide",
+  "description": "Comprehensive interview prep framework for job seekers globally.",
+  "seoTitle": "Perfect Interview Guide",
+  "seoDescription": "Prepare for interviews with strategic practice and communication methods.",
+  "keywords": [
+    "interview guide",
+    "job interview prep",
+    "career guide"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "sections": [
+    {
+      "title": "Research the Role",
+      "content": "Study the job description, company context, and likely interview themes."
+    },
+    {
+      "title": "Use STAR Framework",
+      "content": "Structure behavioral answers using Situation, Task, Action, Result."
+    },
+    {
+      "title": "Follow-Up Professionally",
+      "content": "Send concise thank-you notes reinforcing your value and interest."
+    }
+  ],
+  "category": "guides",
+  "body": "Comprehensive interview prep framework for job seekers globally.\n\nResearch the Role\n\nStudy the job description, company context, and likely interview themes.\n\nUse STAR Framework\n\nStructure behavioral answers using Situation, Task, Action, Result.\n\nFollow-Up Professionally\n\nSend concise thank-you notes reinforcing your value and interest."
+}

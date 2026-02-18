@@ -1,0 +1,18 @@
+{
+  "slug": "perfect-bmi-calculator",
+  "title": "Perfect BMI Calculator",
+  "description": "Calculate Body Mass Index using metric or imperial units.",
+  "seoTitle": "Perfect BMI Calculator (Metric and Imperial)",
+  "seoDescription": "Check your BMI instantly with healthy range classification.",
+  "keywords": [
+    "bmi calculator",
+    "health calculator",
+    "body mass index"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "intro": "A global BMI calculator for health tracking with instant category results.",
+  "toolType": "bmi",
+  "category": "tools",
+  "body": "A global BMI calculator for health tracking with instant category results.\n\nCalculate Body Mass Index using metric or imperial units."
+}

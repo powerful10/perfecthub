@@ -1,0 +1,18 @@
+{
+  "slug": "perfect-grade-calculator",
+  "title": "Perfect Grade Calculator",
+  "description": "Convert earned and total points into percentage and letter grade.",
+  "seoTitle": "Perfect Grade Calculator (Percentage and Letter)",
+  "seoDescription": "Calculate academic grades instantly from points and percentage.",
+  "keywords": [
+    "grade calculator",
+    "percentage grade",
+    "letter grade"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "intro": "Simple and accurate grade calculator for school, college, and training.",
+  "toolType": "grade",
+  "category": "tools",
+  "body": "Simple and accurate grade calculator for school, college, and training.\n\nConvert earned and total points into percentage and letter grade."
+}

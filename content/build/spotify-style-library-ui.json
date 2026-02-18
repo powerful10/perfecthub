@@ -1,0 +1,30 @@
+{
+  "slug": "spotify-style-library-ui",
+  "title": "Spotify-style Library UI",
+  "description": "Build an original media library interface with collections, playlists, and discovery sections.",
+  "seoTitle": "Spotify-style Library UI Build Prompt Pack",
+  "seoDescription": "Build an original media library interface with collections, playlists, and discovery sections. Includes ChatGPT/Claude, Gemini, and Codex prompts for an original implementation.",
+  "keywords": [
+    "library ui",
+    "playlist interface",
+    "media app",
+    "build prompt"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "category": "build",
+  "intro": "Ship a polished media browsing UI with personalized sections and fast navigation.",
+  "inspiredBy": "media library and playlist browsing interfaces",
+  "prompts": {
+    "chatgpt_claude_prompt": "You are a senior startup product strategist and UX engineer.\nDesign and scope a complete MVP for: Spotify-style Library UI.\nProject summary: Build an original media library interface with collections, playlists, and discovery sections.\nReturn: product concept, user personas, IA, feature matrix, UX flows, and launch metrics.\nCreate an original product inspired by media library and playlist browsing interfaces. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by media library and playlist browsing interfaces, but original implementation and assets.",
+    "gemini_prompt": "Act as a systems designer and technical architect.\nGenerate an implementation blueprint for an original project inspired by media library and playlist browsing interfaces.\nInclude architecture diagram text, data model, API contracts, and testing strategy.\nProvide mobile and desktop interaction notes and accessibility checks.\nCreate an original product inspired by media library and playlist browsing interfaces. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by media library and playlist browsing interfaces, but original implementation and assets.",
+    "codex_prompt": "You are Codex acting as a senior full-stack engineer.\nBuild a production-ready project for: Spotify-style Library UI.\nUse Next.js 14+, TypeScript, TailwindCSS, clean component architecture, and reusable modules.\nImplement core features, seed data, responsive UI, metadata, and performance best practices.\nOutput complete code files only.\nCreate an original product inspired by media library and playlist browsing interfaces. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by media library and playlist browsing interfaces, but original implementation and assets."
+  },
+  "sections": [
+    {
+      "title": "How to use this build pack",
+      "content": "Start with the strategy prompt, refine architecture, then execute with the Codex implementation prompt in iterative milestones."
+    }
+  ],
+  "body": "Ship a polished media browsing UI with personalized sections and fast navigation.\n\nBuild an original media library interface with collections, playlists, and discovery sections.\n\nInspired by media library and playlist browsing interfaces, but original implementation and assets."
+}

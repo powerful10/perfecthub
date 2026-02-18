@@ -1,0 +1,44 @@
+{
+  "slug": "study-prompts",
+  "title": "Perfect Study Prompts",
+  "description": "Prompt pack for students to learn faster, revise better, and score higher.",
+  "seoTitle": "Perfect Study Prompts",
+  "seoDescription": "Use study prompts to create plans, summaries, and exam strategies.",
+  "keywords": [
+    "study prompts",
+    "exam prompts",
+    "learning prompts"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "intro": "Copy-ready prompts designed for school, college, and self-learning.",
+  "prompts": [
+    {
+      "title": "30-Day Exam Plan",
+      "description": "Create a structured exam revision timeline.",
+      "text": "Create a 30-day revision plan for [subject] with [hours] hours per day and weekly checkpoints."
+    },
+    {
+      "title": "Complex Topic Simplifier",
+      "description": "Break difficult topics into simple steps.",
+      "text": "Explain [topic] in simple language with examples and a 5-question self-test."
+    },
+    {
+      "title": "Active Recall Questions",
+      "description": "Generate recall questions for memory retention.",
+      "text": "Generate 25 active recall questions from this chapter: [paste chapter notes]."
+    },
+    {
+      "title": "Smart Summary Builder",
+      "description": "Turn long notes into concise revision points.",
+      "text": "Summarize these notes into bullet points with formulas, definitions, and key dates: [notes]."
+    },
+    {
+      "title": "Exam Strategy Coach",
+      "description": "Plan score-maximizing exam tactics.",
+      "text": "Give me an exam-day strategy for [exam type], including time allocation and question prioritization."
+    }
+  ],
+  "category": "prompts",
+  "body": "Copy-ready prompts designed for school, college, and self-learning.\n\nPrompt pack for students to learn faster, revise better, and score higher.\n\n30-Day Exam Plan\n\nCreate a structured exam revision timeline.\n\nCreate a 30-day revision plan for [subject] with [hours] hours per day and weekly checkpoints.\n\nComplex Topic Simplifier\n\nBreak difficult topics into simple steps.\n\nExplain [topic] in simple language with examples and a 5-question self-test.\n\nActive Recall Questions\n\nGenerate recall questions for memory retention.\n\nGenerate 25 active recall questions from this chapter: [paste chapter notes].\n\nSmart Summary Builder\n\nTurn long notes into concise revision points.\n\nSummarize these notes into bullet points with formulas, definitions, and key dates: [notes].\n\nExam Strategy Coach\n\nPlan score-maximizing exam tactics.\n\nGive me an exam-day strategy for [exam type], including time allocation and question prioritization."
+}

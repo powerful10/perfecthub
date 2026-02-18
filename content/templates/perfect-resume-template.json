@@ -1,0 +1,17 @@
+{
+  "slug": "perfect-resume-template",
+  "title": "Perfect Resume Template",
+  "description": "ATS-friendly resume template focused on impact and relevance.",
+  "seoTitle": "Perfect Resume Template",
+  "seoDescription": "Use this ATS-friendly resume template to increase interview chances.",
+  "keywords": [
+    "resume template",
+    "ats resume",
+    "job resume"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "templateText": "[Name]\n[City, Country] | [Phone] | [Email]\n\nTarget Role\n[Role title]\n\nSummary\n[Strong 3-line profile]\n\nKey Skills\n- [Skill]\n- [Skill]\n- [Skill]\n\nProfessional Experience\n[Role] | [Company] | [Dates]\n- [Impact statement with metric]\n\nEducation\n[Degree], [Institution]",
+  "category": "templates",
+  "body": "ATS-friendly resume template focused on impact and relevance.\n\n[Name]\n[City, Country] | [Phone] | [Email]\n\nTarget Role\n[Role title]\n\nSummary\n[Strong 3-line profile]\n\nKey Skills\n- [Skill]\n- [Skill]\n- [Skill]\n\nProfessional Experience\n[Role] | [Company] | [Dates]\n- [Impact statement with metric]\n\nEducation\n[Degree], [Institution]"
+}

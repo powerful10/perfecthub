@@ -1,0 +1,18 @@
+{
+  "slug": "perfect-loan-calculator",
+  "title": "Perfect Loan Calculator",
+  "description": "Calculate monthly payment, total payment, and total interest.",
+  "seoTitle": "Perfect Loan Calculator (EMI and Interest)",
+  "seoDescription": "Estimate loan EMIs and total interest with accurate formulas.",
+  "keywords": [
+    "loan calculator",
+    "emi calculator",
+    "interest calculator"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "intro": "Loan math made simple with transparent monthly payment estimates.",
+  "toolType": "loan",
+  "category": "tools",
+  "body": "Loan math made simple with transparent monthly payment estimates.\n\nCalculate monthly payment, total payment, and total interest."
+}

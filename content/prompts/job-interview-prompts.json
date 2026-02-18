@@ -1,0 +1,43 @@
+{
+  "slug": "job-interview-prompts",
+  "title": "Perfect Job Interview Prompts",
+  "description": "Interview prep prompts for applications, confidence, and performance.",
+  "seoTitle": "Perfect Job Interview Prompts",
+  "seoDescription": "Use interview prompts to prepare STAR answers and role-specific responses.",
+  "keywords": [
+    "interview prompts",
+    "job prep",
+    "career prompts"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "prompts": [
+    {
+      "title": "STAR Answer Builder",
+      "description": "Turn experiences into structured answers.",
+      "text": "Convert this experience into a STAR answer for [role]: [experience]."
+    },
+    {
+      "title": "Mock Interview",
+      "description": "Practice realistic interview flow.",
+      "text": "Act as interviewer for [role] and ask me 12 progressive questions with feedback."
+    },
+    {
+      "title": "Behavioral Question Bank",
+      "description": "Generate high-probability behavioral questions.",
+      "text": "List 25 behavioral interview questions for [role], grouped by competency."
+    },
+    {
+      "title": "Salary Negotiation Script",
+      "description": "Prepare negotiation messages.",
+      "text": "Write a professional salary negotiation script for an offer of [amount] targeting [target amount]."
+    },
+    {
+      "title": "Post-Interview Follow-Up",
+      "description": "Craft thank-you and follow-up emails.",
+      "text": "Write a concise thank-you email after interviewing for [role] with one key highlight."
+    }
+  ],
+  "category": "prompts",
+  "body": "Interview prep prompts for applications, confidence, and performance.\n\nSTAR Answer Builder\n\nTurn experiences into structured answers.\n\nConvert this experience into a STAR answer for [role]: [experience].\n\nMock Interview\n\nPractice realistic interview flow.\n\nAct as interviewer for [role] and ask me 12 progressive questions with feedback.\n\nBehavioral Question Bank\n\nGenerate high-probability behavioral questions.\n\nList 25 behavioral interview questions for [role], grouped by competency.\n\nSalary Negotiation Script\n\nPrepare negotiation messages.\n\nWrite a professional salary negotiation script for an offer of [amount] targeting [target amount].\n\nPost-Interview Follow-Up\n\nCraft thank-you and follow-up emails.\n\nWrite a concise thank-you email after interviewing for [role] with one key highlight."
+}

@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ph-bg: #ffffff;
+  --ph-text: #0f172a;
+  --ph-accent: #4f46e5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--ph-bg);
+  color: var(--ph-text);
+}
+
+.font-manrope {
+  font-family: var(--font-manrope), "Segoe UI", sans-serif;
+}
+
+.site-bg {
+  background:
+    radial-gradient(1100px 420px at 0% -15%, rgba(79, 70, 229, 0.12), transparent 58%),
+    radial-gradient(900px 360px at 100% 0%, rgba(14, 165, 233, 0.08), transparent 58%),
+    #ffffff;
+}
+
+::selection {
+  background: rgba(79, 70, 229, 0.16);
+  color: #1e1b4b;
+}
+
+@layer utilities {
+  .section-card {
+    @apply rounded-3xl border border-slate-200/80 bg-white shadow-[0_10px_40px_rgba(15,23,42,0.06)];
+  }
+}

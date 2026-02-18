@@ -1,0 +1,30 @@
+{
+  "slug": "top-down-shooter-prototype",
+  "title": "Top-down shooter prototype (original assets)",
+  "description": "Build an original top-down shooter with enemy waves, upgrades, and movement polish.",
+  "seoTitle": "Top-down shooter prototype (original assets) Build Prompt Pack",
+  "seoDescription": "Build an original top-down shooter with enemy waves, upgrades, and movement polish. Includes ChatGPT/Claude, Gemini, and Codex prompts for an original implementation.",
+  "keywords": [
+    "top down shooter",
+    "game prototype",
+    "action game",
+    "build prompt"
+  ],
+  "featured": false,
+  "updatedAt": "2026-02-18",
+  "category": "build",
+  "intro": "Create a playable top-down shooter prototype with modular enemy and weapon systems.",
+  "inspiredBy": "top-down action shooter progression loops",
+  "prompts": {
+    "chatgpt_claude_prompt": "You are a senior startup product strategist and UX engineer.\nDesign and scope a complete MVP for: Top-down shooter prototype (original assets).\nProject summary: Build an original top-down shooter with enemy waves, upgrades, and movement polish.\nReturn: product concept, user personas, IA, feature matrix, UX flows, and launch metrics.\nCreate an original product inspired by top-down action shooter progression loops. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by top-down action shooter progression loops, but original implementation and assets.",
+    "gemini_prompt": "Act as a systems designer and technical architect.\nGenerate an implementation blueprint for an original project inspired by top-down action shooter progression loops.\nInclude architecture diagram text, data model, API contracts, and testing strategy.\nProvide mobile and desktop interaction notes and accessibility checks.\nCreate an original product inspired by top-down action shooter progression loops. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by top-down action shooter progression loops, but original implementation and assets.",
+    "codex_prompt": "You are Codex acting as a senior full-stack engineer.\nBuild a production-ready project for: Top-down shooter prototype (original assets).\nUse Next.js 14+, TypeScript, TailwindCSS, clean component architecture, and reusable modules.\nImplement core features, seed data, responsive UI, metadata, and performance best practices.\nOutput complete code files only.\nCreate an original product inspired by top-down action shooter progression loops. Do not use brand names, logos, copyrighted art, trademarked characters, or proprietary assets. Use original naming, original visual direction, and original content throughout. IP Safety note: Inspired by top-down action shooter progression loops, but original implementation and assets."
+  },
+  "sections": [
+    {
+      "title": "How to use this build pack",
+      "content": "Start with the strategy prompt, refine architecture, then execute with the Codex implementation prompt in iterative milestones."
+    }
+  ],
+  "body": "Create a playable top-down shooter prototype with modular enemy and weapon systems.\n\nBuild an original top-down shooter with enemy waves, upgrades, and movement polish.\n\nInspired by top-down action shooter progression loops, but original implementation and assets."
+}

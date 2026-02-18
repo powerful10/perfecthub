@@ -1,0 +1,18 @@
+{
+  "slug": "perfect-salary-calculator",
+  "title": "Perfect Salary Calculator",
+  "description": "Convert hourly pay to annual salary and annual salary to hourly.",
+  "seoTitle": "Perfect Salary Calculator",
+  "seoDescription": "Calculate salary, hourly rate, weekly and monthly income.",
+  "keywords": [
+    "salary calculator",
+    "hourly to annual",
+    "income calculator"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "intro": "A practical salary converter for freelancers, employees, and recruiters.",
+  "toolType": "salary",
+  "category": "tools",
+  "body": "A practical salary converter for freelancers, employees, and recruiters.\n\nConvert hourly pay to annual salary and annual salary to hourly."
+}

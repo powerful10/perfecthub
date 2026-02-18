@@ -1,0 +1,30 @@
+{
+  "slug": "perfect-productivity-guide",
+  "title": "Perfect Productivity Guide",
+  "description": "Practical system for planning, execution, and review in modern work.",
+  "seoTitle": "Perfect Productivity Guide",
+  "seoDescription": "Master productivity with prioritization, deep work, and weekly reviews.",
+  "keywords": [
+    "productivity guide",
+    "time management",
+    "deep work"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "sections": [
+    {
+      "title": "Prioritize by Impact",
+      "content": "Not all tasks are equal. Focus on high-impact outputs first."
+    },
+    {
+      "title": "Use Time Blocks",
+      "content": "Reserve uninterrupted blocks for cognitively demanding work."
+    },
+    {
+      "title": "Weekly Review",
+      "content": "Review wins, blockers, and next priorities every week."
+    }
+  ],
+  "category": "guides",
+  "body": "Practical system for planning, execution, and review in modern work.\n\nPrioritize by Impact\n\nNot all tasks are equal. Focus on high-impact outputs first.\n\nUse Time Blocks\n\nReserve uninterrupted blocks for cognitively demanding work.\n\nWeekly Review\n\nReview wins, blockers, and next priorities every week."
+}

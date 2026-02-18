@@ -1,0 +1,30 @@
+{
+  "slug": "perfect-morning-routine",
+  "title": "Perfect Morning Routine Guide",
+  "description": "Build a consistent morning system for focus, health, and productivity.",
+  "seoTitle": "Perfect Morning Routine Guide",
+  "seoDescription": "Design a practical morning routine that improves daily performance.",
+  "keywords": [
+    "morning routine",
+    "daily routine",
+    "focus habits"
+  ],
+  "featured": true,
+  "updatedAt": "2026-02-18",
+  "sections": [
+    {
+      "title": "Wake-Up Anchor",
+      "content": "Wake at a consistent time to stabilize sleep and energy levels."
+    },
+    {
+      "title": "Movement and Hydration",
+      "content": "Start with light mobility and water before checking your phone."
+    },
+    {
+      "title": "Priority Planning",
+      "content": "Identify top 1-3 tasks before starting work."
+    }
+  ],
+  "category": "guides",
+  "body": "Build a consistent morning system for focus, health, and productivity.\n\nWake-Up Anchor\n\nWake at a consistent time to stabilize sleep and energy levels.\n\nMovement and Hydration\n\nStart with light mobility and water before checking your phone.\n\nPriority Planning\n\nIdentify top 1-3 tasks before starting work."
+}
