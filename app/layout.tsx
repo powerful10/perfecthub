@@ -67,9 +67,8 @@ export default function RootLayout({
         <div className="site-bg flex min-h-screen flex-col text-slate-900">
           <Navbar />
           <main className="mx-auto w-full max-w-7xl flex-1 px-4 pb-16 pt-32 sm:px-6 md:pt-36 lg:px-8">
-            <AdBanner className="mb-8" />
             {children}
-            <AdBanner className="mt-8" size="large" />
+            <AdBanner className="mt-10" size="large" />
           </main>
           <Footer />
         </div>

@@ -60,18 +60,37 @@ export default function HomePage() {
 
       <section className="section-card p-6 sm:p-8">
         <h2 className="text-2xl font-bold tracking-tight text-slate-900">
-          AI Power Mode
+          Interactive Builders &amp; Checkers
         </h2>
-        <p className="mt-3 max-w-3xl text-sm leading-7 text-slate-600">
-          Smart Mode is available now. AI Power Mode features are coming soon for CV
-          tailoring, writing rewrites, and deeper IELTS feedback.
+        <p className="mt-2 max-w-3xl text-sm leading-7 text-slate-600">
+          Jump straight into our free browser tools — no sign-up required.
         </p>
-        <Link
-          href="/coming-soon"
-          className="mt-4 inline-flex rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-[#4f46e5] hover:text-[#4f46e5]"
-        >
-          View AI Roadmap
-        </Link>
+        <div className="mt-4 flex flex-wrap gap-3">
+          <Link
+            href="/cv-builder"
+            className="rounded-full bg-slate-900 px-4 py-2 text-sm font-semibold text-white transition hover:bg-[#4f46e5]"
+          >
+            CV Builder
+          </Link>
+          <Link
+            href="/prompt-builder"
+            className="rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-[#4f46e5] hover:text-[#4f46e5]"
+          >
+            Prompt Builder
+          </Link>
+          <Link
+            href="/writing-checker"
+            className="rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-[#4f46e5] hover:text-[#4f46e5]"
+          >
+            Writing Checker
+          </Link>
+          <Link
+            href="/ielts-writing-precheck"
+            className="rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-[#4f46e5] hover:text-[#4f46e5]"
+          >
+            IELTS Writing Precheck
+          </Link>
+        </div>
       </section>
 
       {featuredSections.map((section) => (
@@ -104,8 +123,6 @@ export default function HomePage() {
               />
             ))}
           </div>
-
-          <AdBanner />
         </section>
       ))}
     </article>
